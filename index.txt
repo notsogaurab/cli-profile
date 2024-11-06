@@ -1,59 +1,67 @@
-
-  _____                   __     __  __             __  _ 
+  _____                   __     __  __             __  _
  / ___/__ ___ _________ _/ /    / / / /__  _______ / /_(_)
-/ (_ / _ `/ // / __/ _ `/ _ \  / /_/ / _ \/ __/ -_) __/ / 
-\___/\_,_/\_,_/_/  \_,_/_.__/  \____/ .__/_/  \__/\__/_/  
-                                   /_/                    
+/ (_ / _ `/ // / __/ _ `/ _ \  / /_/ / _ \/ __/ -_) __/ /
+\___/\_,_/\_,_/_/  \_,_/_.__/  \____/ .__/_/  \__/\__/_/
+                                   /_/
 
-Name:     Gaurab Upreti
-Role:     Software Engineer, DevOps
+┌───────────────────────────────────────────────────────────┐
+│                     Gaurab Upreti                         │
+│               Software Engineer, DevOps                   │
+└───────────────────────────────────────────────────────────┘
 
-
-Summary
--------
-Highly dedicated and motivated IT professional with a passion for Cloud and DevOps technologies. Experienced in working within DevOps environments, leveraging adaptability and enthusiasm to drive progress both individually and collaboratively. AWS Certified Cloud Practitioner with foundational knowledge of core AWS Services and additional DevOps tools.
 
 
 Technical Skills
-----------------
-Languages and Scripts:   HTML, CSS, Python, JavaScript, Bash
-Database:                PostgreSQL
-VCS:                     Git, GitHub, Bitbucket, CodeCommit
-AWS services:            EC2, S3, RDS, CloudWatch, ECS, ECR, Fargate
-Containerization:        Docker
-IaC:                     Terraform, CloudFormation, Pulumi, Ansible
-Collaboration:           JIRA, Slack
-Methodology:             Agile, Scrum
+─────────────────────────────────────────────────────────────
+• **Languages and Scripts**       : HTML, CSS, Python, JavaScript, Bash
+• **Database**                    : PostgreSQL
+• **VCS**                         : Git, GitHub, Bitbucket, CodeCommit
+• **AWS services**                : EC2, S3, RDS, CloudWatch, ECS, ECR, Fargate
+• **Containerization**            : Docker
+• **IaC**                         : Terraform, CloudFormation, Pulumi, Ansible
+• **Collaboration**               : JIRA, Slack
+• **Methodology**                 : Agile, Scrum
 
 
 Professional Experience
------------------------
-Software Engineer, DevOps @ Leapfrog Technology (Feb 2024 - Present)
-- Managed and optimized AWS cloud infrastructure, including EC2, S3, Lambda, ECS, and ECR.
-- Developed CI/CD pipelines with GitHub Actions, Jenkins, and Bitbucket CI.
-- Managed Docker and Kubernetes deployments for efficiency.
-- Implemented IaC with Terraform, CloudFormation, and Pulumi.
-- Provided technical support and collaborated in cross-functional teams.
-- Monitored systems using Prometheus, Grafana, Elasticsearch, and Kibana.
+─────────────────────────────────────────────────────────────
+┌ Software Engineer, DevOps @ Leapfrog Technology ─────────┐
+│ Feb 2024 - Present                                       │
+├──────────────────────────────────────────────────────────┤
+│ • Managed and optimized AWS cloud infrastructure.        │
+│ • Developed CI/CD pipelines (GitHub Actions, Jenkins).   │
+│ • Managed Docker and Kubernetes deployments.             │
+│ • Implemented IaC with Terraform, CloudFormation, Pulumi.│
+│ • Collaborated with teams, provided technical support.   │
+│ • Monitored systems (Prometheus, Grafana, Elasticsearch).│
+└──────────────────────────────────────────────────────────┘
 
-DevOps Engineer, Intern @ NAXA (Sep 2023 - Dec 2023)
-- Developed GitHub Actions workflows and Jenkins CI/CD pipelines.
-- Configured Docker for multi-service applications.
-- Set up reverse proxy and load balancing with Nginx and managed DNS via Cloudflare.
+┌ DevOps Engineer, Intern @ NAXA ──────────────────────────┐
+│ Sep 2023 - Dec 2023                                      │
+├──────────────────────────────────────────────────────────┤
+│ • Developed GitHub Actions workflows and Jenkins CI/CD.  │
+│ • Configured Docker for multi-service applications.      │
+│ • Set up reverse proxy, load balancing with Nginx, DNS.  │
+└──────────────────────────────────────────────────────────┘
 
-Technical Support Representative, Veda App (Apr 2022 - Jul 2022)
-- Collaborated with clients to troubleshoot issues and provide training.
-- Reported bugs and created tickets for issues.
+┌ Technical Support Representative, Veda App ─────────────┐
+│ Apr 2022 - Jul 2022                                     │
+├─────────────────────────────────────────────────────────┤
+│ • Collaborated with clients for troubleshooting.        │
+│ • Reported bugs, created tickets for client issues.     │
+└─────────────────────────────────────────────────────────┘
 
 
-Major Projects
---------------
-- **Amazon S3 Static Website with Terraform**: Deployed a static website on Amazon S3 using Terraform.
-- **CI/CD Project**: Built CI/CD workflow with GitHub Actions.
-- **3-Tier Web Architecture**: Created a three-tier architecture on AWS.
+Projects
+─────────────────────────────────────────────────────────────
+• **Amazon S3 Static Website with Terraform**: Deployed a static
+  website on Amazon S3 using Terraform.
+• **CI/CD Project**: Built CI/CD workflow with GitHub Actions.
+• **3-Tier Web Architecture**: Created and deployed a three-tier architecture on AWS.
+
 
 Education
----------
+─────────────────────────────────────────────────────────────
 Lincoln University
 Bachelor of Information Technology (BIT), Texas College of Management & IT
 (2019-2023)
