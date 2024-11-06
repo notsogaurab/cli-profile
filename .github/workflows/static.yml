@@ -36,7 +36,7 @@ jobs:
           chmod +x index.sh
       - name: Run profile script and generate HTML
         run: |
-          ./profile.sh > index.html  # Run profile.sh and save output as index.html
+          ./index.sh > index.html  # Run profile.sh and save output as index.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
